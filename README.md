@@ -49,10 +49,11 @@ Designing scalable web systems, experimenting with AI-integrated applications, a
 
 Focused on:
 
-- System design fundamentals
-- Production-ready web apps
-- Performance & scalability
-- Clean, maintainable code
+- Scalable full-stack architecture & system design fundamentals  
+- AI-integrated applications and intelligent workflows  
+- Secure coding practices and cybersecurity best standards  
+- Performance optimization and reliability engineering  
+- Clean, maintainable, production-grade code  
 
 ---
 
