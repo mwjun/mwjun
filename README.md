@@ -59,18 +59,70 @@ Focused on:
 
 ##  FEATURED PROJECTS
 
-Pin your strongest 4–6 repositories.
+##  FEATURED SYSTEMS
 
-When writing repo READMEs, structure them like:
+###  ACTION RPG — Capstone Project (Godot 4)
 
-Project Name  
-Short one-line mission statement.
+Advanced action RPG built using Godot 4 Engine with state-driven architecture.
 
-Tech Stack: React · Node · PostgreSQL  
-Features:
-- Auth system
-- REST API
-- Deployment pipeline
+**Stack**
+C# · GDScript · Godot 4  
+Blender · Mixamo  
+
+**Engineering Highlights**
+- State machine–driven character logic  
+- UML-based design planning  
+- Modular combat and animation systems  
+- Agile/Scrum workflow with Jira tracking  
+
+---
+
+###  TraderBotV3 — Stock Backtesting Engine
+
+Desktop application simulating algorithmic trading strategies and performance metrics.
+
+**Stack**
+Python · yfinance API · Pandas  
+Tkinter · AWS S3 · CI/CD pipelines  
+
+**Engineering Highlights**
+- MVC architecture implementation  
+- Historical data simulation & strategy testing  
+- Cloud-integrated storage workflows  
+- Automated deployment pipelines  
+
+---
+
+###  Web Platforms Engineered
+
+Production-ready web systems built for real-world clients and businesses.
+
+####  Brushmo
+Modern full-stack web application.
+
+JavaScript · Python · PHP · SQL  
+React · Node.js  
+PostgreSQL · MongoDB  
+CI/CD pipelines  
+
+- REST-driven backend architecture  
+- Responsive UI with modular component design  
+- Relational & NoSQL database integration  
+- Deployment-ready production configuration  
+
+####  JSL Benefits (Insurance Platform)
+Custom business website and backend integration.
+
+- Secure data handling practices  
+- Structured database-driven workflows  
+- Professional client-facing UI  
+
+####  Vessel Church OC
+Community-focused website platform.
+
+- Clean, responsive frontend architecture  
+- Backend data management  
+- Scalable hosting configuration  
 
 ---
 
@@ -93,5 +145,5 @@ Portfolio: https://mwjun.github.io
 ---
 
 <p align="center">
-  <sub>Minimal. Intentional. Engineered.</sub>
+  <sub>Minimal. Intentional. AI-Powered Engineering.</sub>
 </p>
