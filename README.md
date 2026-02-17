@@ -75,7 +75,7 @@ Blender · Mixamo
 
 ---
 
-###  TraderBotV3 — Stock Backtesting Engine
+###  TraderBotV2 — Stock Backtesting Engine
 
 Desktop application simulating algorithmic trading strategies and performance metrics.
 
@@ -95,7 +95,7 @@ Tkinter · AWS S3 · CI/CD pipelines
 
 Production-ready web systems built for real-world clients and businesses.
 
-####  Brushmo
+####  Brushmo (E-commerce Platform)
 Modern full-stack web application.
 
 JavaScript · Python · PHP · SQL  
