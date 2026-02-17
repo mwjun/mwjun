@@ -59,8 +59,6 @@ Focused on:
 
 ##  FEATURED PROJECTS
 
-##  FEATURED SYSTEMS
-
 ###  ACTION RPG — Capstone Project (Godot 4)
 
 Advanced action RPG built using Godot 4 Engine with state-driven architecture.
@@ -129,12 +127,11 @@ Community-focused website platform.
 ##  SYSTEM METRICS
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mwjun&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwjun&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=mwjun&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00ffff&icon_color=00ffff&text_color=ffffff" height="170" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwjun&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00ffff&text_color=ffffff" height="170" />
 </p>
+
 
 ---
 
