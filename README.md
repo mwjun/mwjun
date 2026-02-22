@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <b>Software Engineer · Full-Stack Developer · Web Developer</b>
+  <b>AI Software Engineer · Full-Stack Developer · Web Developer</b>
 </p>
 
 <p align="center">
