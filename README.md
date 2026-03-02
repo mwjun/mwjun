@@ -19,7 +19,6 @@
 ```txt
 Name: Matthew Jun
 Role: AI Software Engineer
-Focus: Full-Stack Systems · Intelligent Web Applications
 Location: United States
 Portfolio: https://mwjun.github.io
 ```
