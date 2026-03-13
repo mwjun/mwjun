@@ -121,16 +121,6 @@ Community-focused website platform.
 - Backend data management  
 - Scalable hosting configuration  
 
----
-
-##  SYSTEM METRICS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mwjun&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00ffff&icon_color=00ffff&text_color=ffffff" height="170" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwjun&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00ffff&text_color=ffffff" height="170" />
-</p>
-
 
 ---
 
